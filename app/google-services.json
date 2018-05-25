@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "485602885337",
+    "firebase_url": "https://yame-6ac21.firebaseio.com",
+    "project_id": "yame-6ac21",
+    "storage_bucket": "yame-6ac21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485602885337:android:8d8dddb02aeed32e",
+        "android_client_info": {
+          "package_name": "soultion.id_h.com.yameyame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpW_JxnsI0-G_ZSLrlDXZ9HYKTlzy4BM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485602885337:android:8b923a2baf8cf7ec",
+        "android_client_info": {
+          "package_name": "solution.idh.songk.massage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpW_JxnsI0-G_ZSLrlDXZ9HYKTlzy4BM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

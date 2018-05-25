@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Health Massager</string>
+    <!--<string name="banner_ad_unit_id">589619ec0cf2bfcd23ec4997</string>-->
+    <string name="banner_ad_unit_id">ca-app-pub-2821664824480291/2908290769</string>
+    <string name="ad_unit_id">ca-app-pub-2821664824480291/3252930762</string>
+
+    <string name="url"> http://blog.naver.com/healthgho </string>
+
+</resources>
